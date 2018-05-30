@@ -21,8 +21,9 @@ In your terminal run Rails s -p 3001 to start a local server
 Fork and clone tab-factory-client :
 https://github.com/CodeDad70/tab-factory-client
 
-In a separate terminal window go to the tab-factory-client and run a client 
-by entering yarn start 
+In a separate terminal window go to the tab-factory-client 
+first run npm install 
+then run a client by entering yarn start 
 
 in your browser go to : 
 http://localhost:3000/
@@ -33,7 +34,7 @@ You are good to go!
 
 Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/CodeDad70/tab-factory-api. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/CodeDad70/tab-factory-client. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
 License
 
